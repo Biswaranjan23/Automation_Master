@@ -72,6 +72,7 @@ public class Weather_Forcast {
       
         System.out.println("Temperature on " + date + response); 
     }
+    // THis is a beautiful comment
 
     private static void getWindSpeedDetails() {
         String date = promptDate();
